@@ -37,9 +37,28 @@
 
 ---
 
+- index.html
+- js/
+  - main.js
+  - require_config.js
+  - lib/
+    - require.js
+  - app/
+    - util.js
+    - minus.js
 
+---
 
+- index.html
+- js/
+  - main.js
+  - lib/
+    - require.js
+  - app/
+    - util.js
+    - minus.js
 
+---
 
 
 
