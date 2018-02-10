@@ -26,6 +26,17 @@
 
 ---
 
+- index.html
+- js/
+  - main.js
+  - require_config.js
+  - lib/
+    - underscore-min.js
+    - non-amd-lib.js
+    - require.js
+
+---
+
 
 
 
